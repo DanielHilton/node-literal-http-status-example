@@ -1,0 +1,23 @@
+{
+  "name": "literal-http-status-example",
+  "version": "1.0.0",
+  "description": "An example project for how to use node-literal-http-status",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/DanielHilton/node-literal-http-status-example"
+  },
+  "keywords": [
+    "testing",
+    "cucumber",
+    "http"
+  ],
+  "author": "Daniel Hilton <daniellawrencehilton@hotmail.co.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "literal-http-status": "^1.0.2"
+  }
+}
